@@ -3,6 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import Footer from './components/Footer'
 import Navbar from './components/Navbar'
 import Person from './components/Person'
+import Admin from './pages/Admin'
 
 
 const App = () => {
@@ -11,6 +12,7 @@ const App = () => {
       <Footer />
       <Navbar/>
       <Person/>
+
 
 
       <Routes>
@@ -23,6 +25,15 @@ const App = () => {
         </Route> */}
 
       </Routes>
+
+
+
+
+
+
+
+      <Admin/>
+
 
     </>
   );
