@@ -4,10 +4,7 @@ const App = () => {
   return (
     <>
 
-    <h1>bohodir</h1>
-      
 
-    <h1>muhammad</h1>
 
     </>
   );

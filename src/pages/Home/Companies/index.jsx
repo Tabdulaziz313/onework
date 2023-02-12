@@ -1,11 +1,12 @@
 import React from 'react';
 import "./style.scss";
-const Layout = () => {
+
+const index = () => {
    return (
       <div>
-         <h1>Layout</h1>
+         <h1>Home</h1>
       </div>
    );
 };
 
-export default Layout;
+export default index;<h1>Home</h1>
