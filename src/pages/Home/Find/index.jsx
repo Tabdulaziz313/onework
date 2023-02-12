@@ -3,7 +3,7 @@ import "./style.scss";
 const index = () => {
    return (
       <div>
-         <h1>About</h1>
+         <h1>find</h1>
       </div>
    );
 };
