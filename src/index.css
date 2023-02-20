@@ -24,3 +24,10 @@
 .span-color{
     color: #3f8cff;
 }
+
+/* a will change Link */
+a {
+    color: inherit;
+    text-decoration: none;
+    transition: all .3s ease;
+}

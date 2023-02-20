@@ -4,26 +4,23 @@ import Footer from './components/Footer'
 import Navbar from './components/Navbar'
 // import Person from './components/Person'
 // import Applicant from './pages/Applicant'
-// import Companies from './pages/Companies'
+import Companies from './pages/Companies'
 // import Empoyer from './pages/Empoyer'
 import Home from './pages/Home'   
 // import Vacancies from './pages/Vacancies'
-
-
-
-
 
 
 const App = () => {
   return (
     <>
       <Navbar/>
+      <Companies/>
       {/* <Person/>
       <Applicant/>
-      <Companies/>
+   
       <Empoyer/>
       <Vacancies/> */}
-      <Home/>
+      {/* <Home/> */}
 
       <Footer />
 
