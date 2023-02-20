@@ -2,12 +2,12 @@ import React from 'react';
 import { Routes, Route } from "react-router-dom";
 import Footer from './components/Footer'
 import Navbar from './components/Navbar'
-import Person from './components/Person'
-import Applicant from './pages/Applicant'
-import Companies from './pages/Companies'
-import Empoyer from './pages/Empoyer'
-import Home from './pages/Home'
-import Vacancies from './pages/Vacancies'
+// import Person from './components/Person'
+// import Applicant from './pages/Applicant'
+// import Companies from './pages/Companies'
+// import Empoyer from './pages/Empoyer'
+import Home from './pages/Home'   
+// import Vacancies from './pages/Vacancies'
 
 
 
@@ -17,15 +17,15 @@ import Vacancies from './pages/Vacancies'
 const App = () => {
   return (
     <>
-      <Footer />
       <Navbar/>
-      <Person/>
+      {/* <Person/>
       <Applicant/>
       <Companies/>
       <Empoyer/>
+      <Vacancies/> */}
       <Home/>
-      <Vacancies/>
 
+      <Footer />
 
       <Routes>
 
