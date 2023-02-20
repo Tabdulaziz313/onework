@@ -33,7 +33,7 @@ const index = () => {
             New York, United States
             <div className="card_jobNums__eGM4c">7 Vacancies</div>
           </div>
-        </div></a><a className="card_card__E68iI" href="/companies/inter-nation-school"><div className="card_cardheader__Vqio_">
+        </div></a><a className="card_card__E68iI" href="#"><div className="card_cardheader__Vqio_">
           <img
             alt="Logo.png"
             srcset="
@@ -75,7 +75,7 @@ const index = () => {
             Tashkent, Uzbekistan
             <div className="card_jobNums__eGM4c">4 Vacancies</div>
           </div>
-        </div></a><a className="card_card__E68iI" href="/companies/ab-solutions"><div className="card_cardheader__Vqio_">
+        </div></a><a className="card_card__E68iI" href="#"><div className="card_cardheader__Vqio_">
           <img
             alt="gg.png"
             srcset="
@@ -118,7 +118,7 @@ const index = () => {
             New York, United States
             <div className="card_jobNums__eGM4c">4 Vacancies</div>
           </div>
-        </div></a><a className="card_card__E68iI" href="/companies/uniplaces"><div className="card_cardheader__Vqio_">
+        </div></a><a className="card_card__E68iI" href="#"><div className="card_cardheader__Vqio_">
           <img alt="uniplaces_logo_rgb_blue.png"
             srcset="
               https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_48,q_auto/https://oneapp-uploads.s3.eu-north-1.amazonaws.com/40a2deac-fd93-4b60-9aaf-395f32680c66.png 1x,
@@ -138,7 +138,7 @@ const index = () => {
             Lisboa, Portugal
             <div className="card_jobNums__eGM4c">4 Vacancies</div>
           </div>
-        </div></a><a className="card_card__E68iI" href="/companies/qalampir-tahririyati"
+        </div></a><a className="card_card__E68iI" href="#"
         ><div className="card_cardheader__Vqio_">
           <img
             alt="Qalampir.uz - black.png"
@@ -160,7 +160,7 @@ const index = () => {
             Tashkent, Uzbekistan
             <div className="card_jobNums__eGM4c">3 Vacancies</div>
           </div>
-        </div></a><a className="card_card__E68iI" href="/companies/najot-talim"><div className="card_cardheader__Vqio_">
+        </div></a><a className="card_card__E68iI" href="#"><div className="card_cardheader__Vqio_">
           <img  alt="photo5368580254257494090.jpg"
             srcset="
               https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_48,q_auto/https://oneapp-uploads.s3.eu-north-1.amazonaws.com/c5078225-bc76-4f21-9fa2-0fea7161961e.jpg 1x,
@@ -180,7 +180,7 @@ const index = () => {
             Tashkent, Uzbekistan
             <div className="card_jobNums__eGM4c">3 Vacancies</div>
           </div>
-        </div></a><a className="card_card__E68iI" href="/companies/novalab-tech-dW6js0aRTS"><div className="card_cardheader__Vqio_">
+        </div></a><a className="card_card__E68iI" href="#"><div className="card_cardheader__Vqio_">
           <img
             alt="tg_image_3572009106.jpeg"
             srcset=" https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_48,q_auto/https://oneapp-uploads.s3.amazonaws.com/538ca6ff-9f85-4f38-99d0-f179dbb3ce9a.jpeg 1x,
