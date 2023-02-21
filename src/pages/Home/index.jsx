@@ -1,20 +1,16 @@
 import React from 'react'
 import Companies from './Companies'
 import Explore from './Explore'
-import Featured from './Featured'
+import DreamJob from './DreamJob'
 import Find from './Find'
-import Latest from './Latest'
 
 const index = () => {
   return (
       <div>
-      <Companies/>
-      <Explore/>
-      <Featured/>
       <Find/>
-      <Latest/>
-
-
+      <Companies/>
+      <Explore/>   
+      <DreamJob/>
     </div>
   )
 }
