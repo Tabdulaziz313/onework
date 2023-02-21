@@ -56,6 +56,7 @@ const index = () => {
         
           </div>
         </section>
+        
         <div className="text-center p-4 text-secondary" >
            Copyright © 2023. OneApp. All rights reserved.
         </div>
