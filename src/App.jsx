@@ -15,13 +15,13 @@ const App = () => {
   return (
     <>
       <Navbar/>
-      <Companies/>
+      {/*<Companies/>*/}
       {/* <Person/>
       <Applicant/>
    
       <Empoyer/>
       <Vacancies/> */}
-       {/*<Home/>*/}
+       <Home/>
 
       <Footer />
 
